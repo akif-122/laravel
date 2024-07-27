@@ -1,4 +1,4 @@
-<h1>Hello Laravel, Welcome Back</h1>
+<h1>Hello Laravel, Welcome Back to Laravel</h1>
 
 <ul>
     <li><a href="/">Welcome</a></li>
